@@ -15,3 +15,6 @@ python3 main.py input.py output.py
 ## Modes
 Offline Mode – works without API
 Online Mode – works with LLM API
+
+## Output Example
+![Output](Screenshot 2026-02-12 004147.png)
