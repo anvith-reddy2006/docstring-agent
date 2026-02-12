@@ -1,2 +1,0 @@
-[console_scripts]
-docstring-agent = docstring_agent.__main__:main
