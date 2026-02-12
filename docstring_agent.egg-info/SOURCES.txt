@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+docstring_agent/__init__.py
+docstring_agent/__main__.py
+docstring_agent/agents.py
+docstring_agent/config.py
+docstring_agent/main.py
+docstring_agent/models.py
+docstring_agent/tools.py
+docstring_agent.egg-info/PKG-INFO
+docstring_agent.egg-info/SOURCES.txt
+docstring_agent.egg-info/dependency_links.txt
+docstring_agent.egg-info/entry_points.txt
+docstring_agent.egg-info/requires.txt
+docstring_agent.egg-info/top_level.txt
